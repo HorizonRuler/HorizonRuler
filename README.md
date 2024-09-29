@@ -1,4 +1,4 @@
-## Hi there 👋! I'm Ming, a student at Northwestern University. Below are some fun programs I've written over the years!
+## Hi there 👋! I'm Ming, a student at Northwestern University. Below are some programs I've written over the years!
 
 <!--
 **HorizonRuler/HorizonRuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
